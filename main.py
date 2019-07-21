@@ -7,3 +7,4 @@ print("Thirs")
 print("Four")
 
 print("Five")
+print("Six local")
