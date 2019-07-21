@@ -8,3 +8,6 @@ print("Four")
 
 print("Five")
 print("Six local")
+
+print("Six")
+
